@@ -1,0 +1,192 @@
+
+
+
+.navbar-brand img{
+    width: 100px;
+    height: 70px;
+}
+.hero-main{
+    background-image: url(./assets/img/hero-gg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.my-button{
+    background-color: #5CAD2F;
+    border-radius: 5px;
+}
+ .my-button a {
+     color: white;
+    padding: 10px 0px 10px 15px;
+    text-align: center;
+ }
+ /* services section start */
+ .services{
+    margin-top: 20px;
+ }
+  
+    .shape-bg {
+        position: absolute;
+        background-image: url(./assets/img/service-left-1\ -bg.png);
+        background-repeat: no-repeat;
+        width: 440px;
+        height: 435px;
+        background-size: cover;
+        z-index: -1;
+        left: -110px;
+        top: -100px;
+    }
+
+ 
+    .single-service {
+        position: relative;
+        margin-bottom: 130px;
+    }
+  
+
+
+
+ .service-mid{
+    background-image: url(./assets/img/srvice-bg.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 80%;
+ }
+ .service-mid img{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+ }
+ .shape-bg-right {
+    background-image: url(./assets/img/services-right-1-bg.png);
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 440px;
+    height: 435px;
+    background-size: cover;
+    z-index: -1;
+    left: -112px;
+    top: -110px;
+}
+.service-right{
+    position: relative;
+        margin-bottom: 130px;
+}
+
+
+
+
+
+/* parking spot */
+span{
+    color: #5CAD2F;
+}
+.spot-head{
+   text-align: center;
+   padding-bottom: 40px;
+   font-weight: 700;
+}
+.spot-car-number{
+ 
+    justify-content: center;
+   
+}
+
+.car{
+    padding-left: 0px;
+    padding-right: 30px;
+    align-items: center;
+
+}
+
+.bike{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.bus{
+    padding-left: 30px;
+    padding-right: 0px;
+}
+.under-spot{
+    padding-top: 20px;
+}
+.view-btn{
+    text-align: center;
+    padding-top: 20px;
+}
+.view-btn button{
+    background-color: #5CAD2F;
+    border-radius: 5px;
+    padding: 8px 15px 8px 15px;
+    color: white;
+    border: 1px white;
+
+}
+/* parking point */
+.parking-point{
+    padding-top: 40PX;
+   
+}
+.mobile-zone{
+    background-image: url(./assets/img/zone-bg.png);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    padding-right: 80px;
+
+
+
+}
+.mobile-zone img{
+  
+    size: 80%;
+}
+
+
+.contact{
+    padding-top: 30px;
+}
+.contact button{
+    background-color: #5CAD2F;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 7px 15px 7px 15px;
+    color: white;
+
+}
+
+.my-parking{
+    justify-content: center;
+    padding: 20px 0 20px 0;
+}
+.my-parking img{
+  width: 60px;
+  height: 60px;
+ 
+}
+
+
+
+#view{
+    background-color: black;
+    border-radius: 4px 90px 4px 90px;
+
+}
+.view-number{
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.view-number h4{
+    color: white;
+}
+.view-number p {
+    color: white;
+    border: 4px 100px 40px 100px;
+}
+.essy-step{
+    text-align: center;
+}
+
