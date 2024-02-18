@@ -189,4 +189,38 @@ span{
 .essy-step{
     text-align: center;
 }
+.footer{
+    background-color: #5CAD2F;
+    padding: 20px 0 20px 0;
+}
+.footer-top{
+    padding: 15px 10px 15px 10px;
+}
 
+.my-icon{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 45%;
+}
+.my-icon img{
+  padding: 15px;
+   height: 70px;
+   width: 70px;
+}
+.call-details{
+    padding-left: 20px;
+}
+.call-details h4{
+    color: white;
+}
+.socile-icon{
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 30px;
+    font-size: 30px;
+    padding-top: 40px;
+    
+ 
+  
+}
